@@ -4,7 +4,7 @@
 
 Credit-Lens 將授信人員（AO）原本需要分散蒐集、人工判讀與事後整理的流程，整理成一套可稽核的 AI 情資平台。系統整合結構化財務資料與非結構化技術/新聞/法規資訊，協助授信人員更快理解企業技術量能、市場訊號與違約風險。
 
-[系統 Demo](https://youtu.be/oNbtibC2INA)
+# [系統 Demo影片](https://youtu.be/oNbtibC2INA)
 
 ## 專案亮點
 
