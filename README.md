@@ -306,4 +306,4 @@ Invoke-RestMethod -Uri http://localhost:8000/api/cache/coverage `
 
 ## 授權與聲明
 
-本專案為精誠 SEI 競賽作品。AI 輸出僅供授信人員參考，最終決策仍由審查人員為之。
+本專案為精誠 SEI 競賽作品。AI 輸出僅供參考
