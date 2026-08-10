@@ -1,6 +1,6 @@
-# 智貸先鋒 Credit-Lens
+#Credit-Lens
 
-> 生技製藥產業授信 AI 情資平臺 ─ 精誠 SEI 競賽作品
+> 生技製藥產業授信 AI 情資平臺 
 
 把授信人員（AO）的工作流拆成「拜訪前、拜訪中、拜訪後」三段，每段配置對應的 AI 能力：
 拜訪前由三個 AI Agent 交叉驗證產出風險裁決，拜訪中提供即時提詞判定，
@@ -306,4 +306,4 @@ Invoke-RestMethod -Uri http://localhost:8000/api/cache/coverage `
 
 ## 授權與聲明
 
-本專案為精誠 SEI 競賽作品。AI 輸出僅供參考
+本專案為競賽作品。AI 輸出僅供參考
